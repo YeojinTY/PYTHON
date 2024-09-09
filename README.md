@@ -1,1 +1,1 @@
-Pyton Study
+Python Study
